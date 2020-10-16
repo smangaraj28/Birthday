@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smangaraj28/birthday.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Soumya Mangaraj",
+  "license": "ABC",
+  "bugs": {
+    "url": "https://github.com/smangaraj28"
+  },
+  "homepage": "https://github.com/smangaraj28/birthday#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
